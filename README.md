@@ -1,4 +1,4 @@
-SocialCode_Kareem
-=================
+SocialCode_July4_2013
+=====================
 
-Code for social networks research activities (created by Kareem Kamel)
+Code for social networks research activities (July 4th 2013)
